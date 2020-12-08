@@ -14,8 +14,8 @@ subtitle: v1.0 last updated on December 7, 2020.
 * Email Address: elibooklover@Texas A&M email
 * Office Location: LAAH 549
 * Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
-* Course Website and Course Readings: [https://elibooklover.github.io](https://elibooklover.github.io)
-* Course Repository: [https://github.com/elibooklover/ENGL304-Topics-in-Digital-Research](https://github.com/elibooklover/ENGL304-Topics-in-Digital-Research)
+* Course Website and Course Readings: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
+* Course Repository: [https://github.com/elibooklover/ENGL304-Spring2021](https://github.com/elibooklover/ENGL304-Spring2021)
 
 ## Course Tools
 We will be using a course website, course repository, Slack, and Canvas to facilitate class activities. The course website will be used for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. The course repository will be used for submitting homework assignments and sharing files. Slack will be used for better communications for class announcements, discussions, questions, and group works. Canvas will be mainly used for turning in assignments and distributing grades.
