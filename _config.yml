@@ -1,6 +1,6 @@
 title:               Classroom for Topics in Digital Humanities (ENGL304)
 url:                 https://elibooklover.github.io/ENGL304-Spring2021
-baseurl:             "/ENGL304-Spring2021/"
+baseurl:             "/ENGL304-Spring2021"
 
 markdown:            kramdown
 highlighter:         rouge
