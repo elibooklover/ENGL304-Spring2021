@@ -1,0 +1,29 @@
+title:               Classroom for Topics in Digital Humanities (ENGL304)
+url:                 https://elibooklover.github.io/ENGL304-Spring2021
+baseurl:             ""
+
+markdown:            kramdown
+highlighter:         rouge
+
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+
+permalink:           pretty
+paginate:            5
+paginate_path:       /sources/:num
+
+blog:
+  truncated_preview: false
+
+sass:
+  sass_dir:          _sass
+  style:             :compressed
+
+author:
+  name:              Hoyeol Kim
+  url:               elibooklover.github.io
+  email:             elibooklover@tamu.edu
+
+plugins:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist
