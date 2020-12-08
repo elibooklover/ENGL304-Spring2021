@@ -9,19 +9,19 @@ title: Charles Dickens's <i>Our Mutual Friend</i>
 <hr />
 
 <div class="fig" style="width:60%;">
-      <img src="images/0010m.jpg" style="width:100%;"  alt="0010m " />
-    </div>
-    <h5>
-      <a href="images/0010.jpg" style="width:100%;" ><i>Original</i></a>
-    </h5>
+  <img src="images/0010m.jpg" style="width:100%;"  alt="0010m " />
+</div>
+<h5>
+  <a href="images/0010.jpg" style="width:100%;" ><i>Original</i></a>
+</h5>
 
 <div class="fig" style="width:60%;">
-      <img src="images/0012m.jpg" style="width:100%;"  alt="0012m " />
-    </div>
-    <h5>
-      <a href="images/0012.jpg" style="width:100%;" ><i>Original</i></a>
-    </h5>
-    <hr />
+  <img src="images/0012m.jpg" style="width:100%;"  alt="0012m " />
+</div>
+<h5>
+  <a href="images/0012.jpg" style="width:100%;" ><i>Original</i></a>
+</h5>
+<hr />
     
     <blockquote>
       <p class="toc">
