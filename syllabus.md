@@ -15,7 +15,7 @@ subtitle: v1.0 last updated on December 7, 2020.
 * Office Location: LAAH 549
 * Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
 * Course Website and Course Readings: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
-* Course Repository: [https://github.com/elibooklover/ENGL304-Spring2021](https://github.com/elibooklover/ENGL304-Spring2021)
+* Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
 
 ## Course Tools
 We will be using a course website, course repository, Slack, and Canvas to facilitate class activities. The course website will be used for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. The course repository will be used for submitting homework assignments and sharing files. Slack will be used for better communications for class announcements, discussions, questions, and group works. Canvas will be mainly used for turning in assignments and distributing grades.
@@ -29,6 +29,10 @@ Students are required to use their own laptops/desktops in the classroom for cou
 *	[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): a cloud-based notebook environment which is suitable for machine learning and data analysis. Colab is basically free to use with limited usages. Google accounts are required to use Colab.
 * [Jupyter Notebook](https://jupyter.org/): 
 * [Gephi](https://gephi.org/users/download/): an open-source network analysis and visualization software package, which is free to download.
+
+## Required Signup for Websites
+* [Hypothesis](https://web.hypothes.is/): Students are required to have a free account on Hypothesis to annotate texts on the course website.
+* [GitHub](https://github.com): Students need to sign up for GitHub in order to participate in course discussions. Students don't have to get a Pro membership, but they can get a Pro membership for free upon a request at [GitHub for Students](https://education.github.com/students). GitHub is a subsidiary of Microsoft.
 
 ## Course Description
 Topics in Digital Research. (3-0) Credit 3. This course does not require any background in computer programming. We will cover many topics of the digital humanities, specifically research methods deployed in computational literary studies. <br>
@@ -125,7 +129,7 @@ The course schedule is subject to changes. <br>
     *	GH: Introduction to GitHub 
     *	GH: Visualization with R: ggplot2
   * Thu (2/11)
-    *	CW: Our Mutual Friend (bk.1 ch.13-15)
+    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
     *	GH: Word frequency with R
 <br>
 <br>
@@ -133,14 +137,14 @@ The course schedule is subject to changes. <br>
 * <b>Week 5: OCR & Digitization</b>
 
   * Tue (2/16)
-    * CW: Our Mutual Friend (bk.1 ch.16-17; bk.2 ch.1-4)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.16-17; bk.2 ch.1-4)
     * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
     *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
     *	CW: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
   * Thu (2/18)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
-    *	CW: Our Mutual Friend (bk.2 ch.5-7)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-7)
     *	GH: Introduction of digit recognizer
     *	Lab
 <br>
@@ -149,7 +153,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 6: Network Analysis</b>
 
   * Tue (2/23)
-    *	CW: Our Mutual Friend (bk.2 ch.8-12)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.8-12)
     *	CW: Network analysis projects
     *	GH: Introduction to Stylometry
   * Thu (2/25)
@@ -161,7 +165,7 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/2) - <b>Texas Independance Day (NO CLASS)</b>
   * Thu (3/4)
-    *	CW: Our Mutual Friend (bk.3 ch.3-10)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.3-10)
     *	Humanities dataset projects
     *	Kaggle
     *	Google Dataset Search
@@ -171,7 +175,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 8: Topic Modeling</b>
 
   * Tue (3/9)
-    * CW: Our Mutual Friend (bk.2 ch.13-16; bk.3 ch.1-2)
+    * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-2)
     *	Introduction of topic modeling
     *	Playing with tools
   * Thu (3/11)
@@ -182,10 +186,10 @@ The course schedule is subject to changes. <br>
 * <b>Week 9: Visualization with Python</b>
 
   * Tue (3/16)
-    *	CW: Our Mutual Friend (bk.3 ch.11-15)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.11-15)
     *	GH: NLTK
   * Thu (3/18)
-    *	CW: Our Mutual Friend (bk.3 ch.16-17)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.16-17)
     *	GH: Matplot / Seaborn
 <br>
 <br>
@@ -193,11 +197,11 @@ The course schedule is subject to changes. <br>
 * <b>Week 10: Web Scrapping & Visualization</b>
 
   * Tue (3/23)
-    *	CW: Our Mutual Friend (bk.4 ch.1-5)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.1-5)
     *	GH: Web scrapping
     *	GH: Scrapping Tweets
   * Thu (3/25)
-    *	CW: Our Mutual Friend (bk.4 ch.6-8)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-8)
     *	GH: Word frequency and word cloud
 <br>
 <br>
@@ -205,12 +209,12 @@ The course schedule is subject to changes. <br>
 * <b>Week 11: Word Embedding</b>
 
   * Tue (3/30)
-    *	CW: Our Mutual Friend (bk.4 ch.9-13)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
     *	What is embedding?
     *	GH: Word2Vec
     *	GH: GloVe
   * Thu (4/1)
-    *	CW: Our Mutual Friend (bk.4 ch.14-17)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
     *	GH: Word similarity
     *	GH: FastText
     *	GH: ELMo
