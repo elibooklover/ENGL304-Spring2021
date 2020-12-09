@@ -27,7 +27,6 @@ We will be using a course website, course repository, Slack, and Canvas to facil
 Students are required to use their own laptops/desktops in the classroom for course activities.
 * [R](https://cran.r-project.org/) & [RStudio](https://rstudio.com/products/rstudio/download/) : Both can be installed for free. [R](https://cran.r-project.org/) needs to be installed first in order to use RStudio. [RStudio](https://rstudio.com/products/rstudio/download/) is a user-friendly programming tool which is free to use.
 *	[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): a cloud-based notebook environment which is suitable for machine learning and data analysis. Colab is basically free to use with limited usages. Google accounts are required to use Colab.
-* [Jupyter Notebook](https://jupyter.org/): 
 * [Gephi](https://gephi.org/users/download/): an open-source network analysis and visualization software package, which is free to download.
 
 ## Required Signup for Websites
