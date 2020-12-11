@@ -128,6 +128,7 @@ The course schedule is subject to changes. <br>
     *	GH: Introduction to GitHub 
     *	GH: Visualization with R: ggplot2
   * Thu (2/11)
+    * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
     *	GH: Word frequency with R
 <br>
@@ -142,7 +143,6 @@ The course schedule is subject to changes. <br>
     *	CW: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
   * Thu (2/18)
-    * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-7)
     *	GH: Introduction of digit recognizer
     *	Lab
@@ -175,10 +175,11 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/9)
     * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-2)
-    *	Introduction of topic modeling
+    *	Introduction to topic modeling
     *	Playing with tools
+    * LDA
   * Thu (3/11)
-    *	GH: Topic modeling & Visualization
+    *	GH: Topic modeling with MALLET & Visualization
 <br>
 <br>
 
