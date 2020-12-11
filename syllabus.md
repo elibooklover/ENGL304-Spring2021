@@ -177,7 +177,7 @@ The course schedule is subject to changes. <br>
     * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-2)
     *	Introduction to topic modeling
     *	Playing with tools
-    * LDA
+    * GH: Topic modeling with LDA
   * Thu (3/11)
     *	GH: Topic modeling with MALLET & Visualization
 <br>
