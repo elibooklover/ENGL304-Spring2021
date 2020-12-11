@@ -14,11 +14,12 @@ subtitle: v1.0 last updated on December 7, 2020.
 * Email Address: elibooklover@Texas A&M email
 * Office Location: LAAH 549
 * Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
-* Course Website and Course Readings: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
+* Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
 * Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
+* Tutorials for Each Session: [https://elibooklover.github.io/Tutorials/])(https://elibooklover.github.io/Tutorials/)
 
 ## Course Tools
-We will be using a course website, course repository, Slack, and Canvas to facilitate class activities. The course website will be used for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. The course repository will be used for submitting homework assignments and sharing files. Slack will be used for better communications for class announcements, discussions, questions, and group works. Canvas will be mainly used for turning in assignments and distributing grades.
+We use a course website, course repository, Slack, and Canvas to facilitate class activities. The course website is for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. Tutorials for each session are provided through the tutorial website created by the instructor. We use Slack for better communications for class announcements, discussions, questions, and group works. Canvas is mainly for turning in assignments and distributing grades.
 
 ## Textbook
 * <i>Our Mutual Friend</i> by Charles Dickens (provided on the course website)
@@ -51,7 +52,7 @@ Your grade is based on the average of the assignments listed below.
 * Participation (In-Class Discussions and Attendance): 10%
 * Annotations: 10%
 * Homework Assignments: 20%
-* Blog Posts: 10%
+* 2 Blog Posts: 10%
 * Project Presentation: 10%
 * Final Project (40% total)	
   *	Proposal: 10%
@@ -61,7 +62,7 @@ Your grade is based on the average of the assignments listed below.
 Grading Scale: A (90-100); B (80-89); C (70-79); D (60-69); F (59 or less)
 
 ## Attendance and Late Paper Policy
-Expectations of the English Department and the University Rules are that you complete classwork and submit all assignments in the sequence they are assigned, by the deadlines posted on Canvas. It is your responsibility to check if your assignments were submitted successfully and correctly on Canvas and the Course Repository. <b>You are also expected to attend class regularly.</b> Any student in excess of <b>two unexcused absences</b> is eligible to be reported for excessive absences; any unexcused absence over this limit will lead to the loss of three percent of your final grade per absence. <b>Being more than 5 minutes late to class is considered an absence.</b> <br>
+Expectations of the English Department and the University Rules are that you complete classwork and submit all assignments in the sequence they are assigned, by the deadlines posted on Canvas. It is your responsibility to check if your assignments were submitted successfully and correctly on Canvas. <b>You are also expected to attend class regularly.</b> Any student in excess of <b>two unexcused absences</b> is eligible to be reported for excessive absences; any unexcused absence over this limit will lead to the loss of three percent of your final grade per absence. <b>Being more than 5 minutes late to class is considered an absence.</b> <br>
 
 <b>Annotations and Homework Assignments will not be accepted late.</b> For all other assignments, you will lose 10% off the final assignment grade for <u><b>every day</b></u> past the due date. The Late Paper Policy for this course follows the guidelines described in the University Student Rules, “Section 7. Attendance” (http://student-rules.tamu.edu/rule07). 
 
@@ -87,7 +88,7 @@ Students and faculty can report non-emergency behavior that causes them to be co
 
 # ENGL 304 Course Schedule
 The course schedule is subject to changes. <br>
-(CV = Canvas; GH = GitHub Repository; CW = Course Website)  <br>
+(CV = Canvas; TT = Tutorials; CW = Course Website)  <br>
 
 * <b>Week 1: What are the Digital Humanities?</b>
 
@@ -116,8 +117,8 @@ The course schedule is subject to changes. <br>
     * Voyant
   * Thu (2/4)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
-    * GH: R & RStudio
-    * GH: R basics
+    * TT: R & RStudio
+    * TT: R basics
 <br>
 <br>
 
@@ -125,12 +126,12 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/9)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
-    *	GH: Introduction to GitHub 
-    *	GH: Visualization with R: ggplot2
+    *	TT: Introduction to GitHub 
+    *	TT: Visualization with R: ggplot2
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
-    *	GH: Word frequency with R
+    *	TT: Word frequency with R
 <br>
 <br>
 
@@ -154,9 +155,9 @@ The course schedule is subject to changes. <br>
   * Tue (2/23)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.8-12)
     *	CW: Network analysis projects
-    *	GH: Introduction to Stylometry
+    *	TT: Introduction to Stylometry
   * Thu (2/25)
-    *	GH: Stylometry
+    *	TT: Stylometry
 <br>
 <br>
 
@@ -177,9 +178,9 @@ The course schedule is subject to changes. <br>
     * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-2)
     *	Introduction to topic modeling
     *	Playing with tools
-    * GH: Topic modeling with LDA
+    * TT: Topic modeling with LDA
   * Thu (3/11)
-    *	GH: Topic modeling with MALLET & Visualization
+    *	TT: Topic modeling with MALLET & Visualization
 <br>
 <br>
 
@@ -187,10 +188,10 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/16)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.11-15)
-    *	GH: NLTK
+    *	TT: NLTK
   * Thu (3/18)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.16-17)
-    *	GH: Matplot / Seaborn
+    *	TT: Matplot / Seaborn
 <br>
 <br>
 
@@ -198,11 +199,11 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/23)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.1-5)
-    *	GH: Web scrapping
-    *	GH: Scrapping Tweets
+    *	TT: Web scrapping
+    *	TT: Scrapping Tweets
   * Thu (3/25)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-8)
-    *	GH: Word frequency and word cloud
+    *	TT: Word frequency and word cloud
 <br>
 <br>
 
@@ -211,13 +212,13 @@ The course schedule is subject to changes. <br>
   * Tue (3/30)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
     *	What is embedding?
-    *	GH: Word2Vec
-    *	GH: GloVe
+    *	TT: Word2Vec
+    *	TT: GloVe
   * Thu (4/1)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
-    *	GH: Word similarity
-    *	GH: FastText
-    *	GH: ELMo
+    *	TT: Word similarity
+    *	TT: FastText
+    *	TT: ELMo
 <br>
 <br>
 
@@ -232,9 +233,9 @@ The course schedule is subject to changes. <br>
     *	Sentimentalism, sentimentality, and sentiment in the Victorian era.
     *	Charles Dickens’ moral sentiments
   * Thu (4/8)
-    *	GH: Curating datasets
-    *	GH: Playing with tools
-    *	GH: Visualizing results
+    *	TT: Curating datasets
+    *	TT: Playing with tools
+    *	TT: Visualizing results
 <br>
 <br>
 
@@ -246,11 +247,11 @@ The course schedule is subject to changes. <br>
     *	Deep learning in literature
     *	GPT-3 (OpenAI) / BERT (Google Research)
     *	CNN / R-CNN / Fast R-CNN / Faster R-CNN / YOLO
-    *	GH: Google Colab
+    *	TT: Google Colab
   * Thu (4/15)
     *	GAN / cGANs
-    *	GH: Colorization
-    *	GH: The Victorian400 dataset
+    *	TT: Colorization
+    *	TT: The Victorian400 dataset
 <br>
 <br>
 
