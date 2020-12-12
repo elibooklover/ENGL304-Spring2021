@@ -5,7 +5,7 @@ subtitle: v1.0 last updated on December 7, 2020.
 ---
 
 <p class="message">
-  This is the syllabus for ENGL304: Topics in Digital Research in Spring 2021. Please read the whole syllabus carefully.
+  This is the syllabus for ENGL304: Topics in Digital Research in Spring 2021. Please read the entire syllabus carefully.
 </p>
 
 ## Instructor Information
@@ -13,13 +13,13 @@ subtitle: v1.0 last updated on December 7, 2020.
 - Class Meeting Times: TTh 9:45-11:00am 
 - Instructor: Hoyeol Kim [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu) 
 - Office Location: LAAH 549
-- Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
+- Office Hours: TW 11:00am-12:30pm via Zoom (by appointment)
 - Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
 - Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
 - Tutorials: [https://elibooklover.github.io/Tutorials/](https://elibooklover.github.io/Tutorials/)
 
 ## Course Tools
-We use a course website, course repository, Slack, and Canvas to facilitate class activities. The course website is for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. Tutorials for each session are provided through the tutorial website created by the instructor. We use Slack for better communications for class announcements, discussions, questions, and group works. Canvas is mainly for turning in assignments and distributing grades.
+We use a course website, course repository, Slack, and Canvas to facilitate class activities. The course website is for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. Tutorials for each session are provided through the tutorial website created by the instructor. We use Slack for class announcements, discussions, questions, and group work. Canvas is mainly for turning in assignments and distributing grades.
 
 ## Textbook
 * <i>Our Mutual Friend</i> by Charles Dickens (provided on the course website)
@@ -27,25 +27,25 @@ We use a course website, course repository, Slack, and Canvas to facilitate clas
 ## Required Software
 Students are required to use their own laptops/desktops in the classroom for course activities.
 * [R](https://cran.r-project.org/) & [RStudio](https://rstudio.com/products/rstudio/download/) : Both can be installed for free. [R](https://cran.r-project.org/) needs to be installed first in order to use RStudio. [RStudio](https://rstudio.com/products/rstudio/download/) is a user-friendly programming tool which is free to use.
-*	[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): a cloud-based notebook environment which is suitable for machine learning and data analysis. Colab is basically free to use with limited usages. Google accounts are required to use Colab.
+*	[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): a cloud-based notebook environment which is suitable for machine learning and data analysis. A Google account is required to use Colab. You are not required to purchase a Colab membership for this course since we will only be using the free features. 
 * [Gephi](https://gephi.org/users/download/): an open-source network analysis and visualization software package, which is free to download.
 
 ## Required Signup for Websites
 * [Hypothesis](https://web.hypothes.is/): Students are required to have a free account on Hypothesis to annotate texts on the course website.
-* [GitHub](https://github.com): Students need to sign up for GitHub in order to participate in course discussions. Students don't have to get a Pro membership, but they can get a Pro membership for free upon a request at [GitHub for Students](https://education.github.com/students). GitHub is a subsidiary of Microsoft.
+* [GitHub](https://github.com): Students need to sign up for GitHub in order to participate in course discussions. Students do not have to get a Pro membership, but they can get a Pro membership for free upon request at [GitHub for Students](https://education.github.com/students). GitHub is a subsidiary of Microsoft.
 
 ## Course Description
-Topics in Digital Research. (3-0) Credit 3. This course does not require any background in computer programming. We will cover many topics of the digital humanities, specifically research methods deployed in computational literary studies. <br>
+Topics in Digital Research. (3-0) Credit 3. This course does not require any background in computer programming. We cover many topics in the digital humanities, specifically research methods deployed in computational literary studies. <br>
 
-Using computational tools based on a quantitative method is a way to examine literary texts for the journey of finding answers to critical questions based on a qualitative method. Literary texts will be centered on in this course and learning computational approaches to the humanities will be secondary. In this course, we will pursue becoming meaningful digital humanists across all fields by learning computational approaches in the humanities.
+Using computational tools based on quantitative methods is a way to examine literary texts in order to find answers to critical questions based on qualitative methods. This course is centered on literary texts; learning computational approaches to the humanities is secondary. In this course, we aim to become meaningful digital humanists across all fields by learning computational approaches in the humanities.
 
 ## Learning Outcomes/Course Objectives
 At the end of the semester, you will be able to do the following:
 *	Learn collaboration by working with other members on digital projects.
 *	Grasp digital archives publicly shared in the digital humanities.
-*	Be familiar with basic coding with R and Python.
+*	Be familiar with basic coding using R and Python.
 *	Successfully create humanities datasets and share them with the public.
-*	Visualize data and extricate the visualizations.
+*	Visualize data and extricate visualizations.
 
 ## Grading and Course Policies
 Your grade is based on the average of the assignments listed below. 
