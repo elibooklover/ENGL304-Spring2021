@@ -12,7 +12,7 @@ subtitle: v1.0 last updated on December 7, 2020.
 <div align=right>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/elibooklover)](https://github.com/elibooklover)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/elibooklover)](https://github.com/elibooklover)
 
 </div>
 
