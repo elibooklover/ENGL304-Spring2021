@@ -9,7 +9,7 @@ subtitle: v1.0 last updated on December 7, 2020.
 </p>
 
 ## Instructor Information
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@gmail.com)](mailto:elibooklover@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
 - Class Meeting Times: TTh 9:45-11:00am 
 - Instructor: Hoyeol Kim 
 - Office Location: LAAH 549
