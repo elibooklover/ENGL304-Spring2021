@@ -9,9 +9,9 @@ subtitle: v1.0 last updated on December 7, 2020.
 </p>
 
 ## Instructor Information
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
 - Class Meeting Times: TTh 9:45-11:00am 
-- Instructor: Hoyeol Kim [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu) 
+- Instructor: Hoyeol Kim 
 - Office Location: LAAH 549
 - Office Hours: TW 11:00am-12:30pm via Zoom (by appointment)
 - Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
