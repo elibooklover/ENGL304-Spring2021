@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0 last updated on December 7, 2020.
+subtitle: v1.0 last updated on December 12, 2020.
 ---
 
 <p class="message">
