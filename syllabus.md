@@ -9,13 +9,13 @@ subtitle: v1.0 last updated on December 7, 2020.
 </p>
 
 ## Instructor Information
-* Class Meeting Times: TTh 9:45-11:00am 
-* Instructor: Hoyeol Kim [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
-* Office Location: LAAH 549
-* Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
-* Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
-* Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
-* Tutorials: [https://elibooklover.github.io/Tutorials/](https://elibooklover.github.io/Tutorials/)
+- Class Meeting Times: TTh 9:45-11:00am 
+- Instructor: Hoyeol Kim [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
+- Office Location: LAAH 549
+- Office Hours: TW 11:00am-12:30pm via Zoom and by appointment
+- Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
+- Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
+- Tutorials: [https://elibooklover.github.io/Tutorials/](https://elibooklover.github.io/Tutorials/)
 
 ## Course Tools
 We use a course website, course repository, Slack, and Canvas to facilitate class activities. The course website is for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. Tutorials for each session are provided through the tutorial website created by the instructor. We use Slack for better communications for class announcements, discussions, questions, and group works. Canvas is mainly for turning in assignments and distributing grades.
