@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0 last updated on December 12, 2020.
+subtitle: v1.0 last updated on December 15, 2020.
 ---
 
 <p class="message">
@@ -88,7 +88,7 @@ Students and faculty can report non-emergency behavior that causes them to be co
 
 # ENGL 304 Course Schedule
 The course schedule is subject to changes. <br>
-(CV = Canvas; TT = Tutorials; CW = Course Website)  <br>
+(CV = Canvas; TR = Tutorials; CW = Course Website)  <br>
 
 * <b>Week 1: What are the Digital Humanities?</b>
 
@@ -117,8 +117,8 @@ The course schedule is subject to changes. <br>
     * Voyant
   * Thu (2/4)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
-    * TT: R & RStudio
-    * TT: R basics
+    * TR: R & RStudio
+    * TR: R basics
 <br>
 <br>
 
@@ -126,12 +126,12 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/9)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
-    *	TT: Introduction to GitHub 
-    *	TT: Visualization with R: ggplot2
+    *	TR: Introduction to GitHub 
+    *	TR: Visualization with R: ggplot2
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
-    *	TT: Word frequency with R
+    *	TR: Word frequency with R
 <br>
 <br>
 
@@ -145,7 +145,7 @@ The course schedule is subject to changes. <br>
     *	Digital Archives: HathiTrust / Project Gutenberg
   * Thu (2/18)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-7)
-    *	GH: Introduction of digit recognizer
+    *	TR: Introduction of Digit Recognizer
     *	Lab
 <br>
 <br>
@@ -155,9 +155,9 @@ The course schedule is subject to changes. <br>
   * Tue (2/23)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.8-12)
     *	CW: Network analysis projects
-    *	TT: Introduction to Stylometry
+    *	TR: Introduction to Stylometry
   * Thu (2/25)
-    *	TT: Stylometry
+    *	TR: Stylometry
 <br>
 <br>
 
@@ -169,6 +169,7 @@ The course schedule is subject to changes. <br>
     *	Humanities dataset projects
     *	Kaggle
     *	Google Dataset Search
+    * TR: NLTK
 <br>
 <br>
 
@@ -179,9 +180,9 @@ The course schedule is subject to changes. <br>
     *	Introduction to topic modeling
     * ["The Digital Humanities Contribution to Topic Modeling"](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/) by Elija Meeks and Scott B. Weingart
     *	Playing with tools
-    * TT: Topic modeling with LDA
+    * TR: Topic modeling with LDA
   * Thu (3/11)
-    *	TT: Topic modeling with MALLET & Visualization
+    *	TR: Topic modeling with MALLET & Visualization
 <br>
 <br>
 
@@ -189,10 +190,10 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/16)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.11-15)
-    *	TT: NLTK / pandas
+    *	TR: NumPy / pandas
   * Thu (3/18)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.16-17)
-    *	TT: Matplotlib / Seaborn
+    *	TR: Matplotlib / Seaborn
 <br>
 <br>
 
@@ -200,11 +201,11 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/23)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.1-5)
-    *	TT: Web scrapping
-    *	TT: Scrapping Tweets
+    *	TR: Web scrapping
+    *	TR: Scrapping Tweets
   * Thu (3/25)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-8)
-    *	TT: Word frequency and word cloud
+    *	TR: Word frequency and word cloud
 <br>
 <br>
 
@@ -213,20 +214,20 @@ The course schedule is subject to changes. <br>
   * Tue (3/30)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
     *	What is embedding?
-    *	TT: Word2Vec
-    *	TT: GloVe
+    *	TR: Word2Vec
+    *	TR: GloVe
   * Thu (4/1)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
-    *	TT: Word similarity
-    *	TT: FastText
-    *	TT: ELMo
+    *	TR: Word similarity
+    *	TR: FastText
+    *	TR: ELMo
 <br>
 <br>
 
 * <b>Week 12: Sentiment Analysis / Victorian Sentiments</b>
 
   * Tue (4/6)
-    *	What is sentiment analysis?
+    *	CW: What is sentiment analysis?
     *	Ekman’s theory of basic emotions
     *	Plutchik’s wheel of emotions
     *	Russel’s circumplex model
@@ -234,9 +235,9 @@ The course schedule is subject to changes. <br>
     *	Sentimentalism, sentimentality, and sentiment in the Victorian era.
     *	Charles Dickens’ moral sentiments
   * Thu (4/8)
-    *	TT: Curating datasets
-    *	TT: Playing with tools
-    *	TT: Visualizing results
+    *	TR: Curating datasets
+    *	TR: Playing with tools
+    *	TR: Visualizing results
 <br>
 <br>
 
@@ -248,11 +249,11 @@ The course schedule is subject to changes. <br>
     *	Deep learning in literature
     *	GPT-3 (OpenAI) / BERT (Google Research)
     *	CNN / R-CNN / Fast R-CNN / Faster R-CNN / YOLO
-    *	TT: Google Colab
+    *	TR: Google Colab
   * Thu (4/15)
     *	GAN / cGANs
-    *	TT: Colorization
-    *	TT: The Victorian400 dataset
+    *	TR: Colorization
+    *	TR: The Victorian400 dataset
 <br>
 <br>
 
@@ -275,4 +276,4 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-Copyright (c) 2021 Hoyeol Kim
+Copyright (c) 2020-21 Hoyeol Kim
