@@ -189,10 +189,10 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/16)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.11-15)
-    *	TT: NLTK
+    *	TT: NLTK / pandas
   * Thu (3/18)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.16-17)
-    *	TT: Matplot / Seaborn
+    *	TT: Matplotlib / Seaborn
 <br>
 <br>
 
