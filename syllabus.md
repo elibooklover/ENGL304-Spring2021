@@ -114,11 +114,14 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/2)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
+    *	TR: Introduction to GitHub
     * Voyant
   * Thu (2/4)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
     * TR: R & RStudio
     * TR: R basics
+    *	TR: Word frequency with R
+    *	TR: Visualization with R: ggplot2
 <br>
 <br>
 
@@ -126,12 +129,12 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/9)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
-    *	TR: Introduction to GitHub 
-    *	TR: Visualization with R: ggplot2
+    * TR: Word frequency with Python (NLTK)
+    
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
-    *	TR: Word frequency with R
+    * TR: Word frequency with Python (NLTK)
 <br>
 <br>
 
