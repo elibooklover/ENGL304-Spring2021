@@ -200,12 +200,12 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-* <b>Week 10: Web Scrapping & Visualization</b>
+* <b>Week 10: Web Scraping & Visualization</b>
 
   * Tue (3/23)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.1-5)
-    *	TR: Web scrapping
-    *	TR: Scrapping Tweets
+    *	TR: Web scraping
+    *	TR: Scraping Tweets
   * Thu (3/25)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-8)
     *	TR: Word frequency and word cloud
