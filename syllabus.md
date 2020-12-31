@@ -251,8 +251,6 @@ The course schedule is subject to changes. <br>
     * What is AI bias?
     *	Deep learning in literature
     *	GPT-3 (OpenAI) / BERT (Google Research)
-    *	CNN / R-CNN / Fast R-CNN / Faster R-CNN / YOLO
-    *	TR: Google Colab
   * Thu (4/15)
     *	GAN / cGANs
     *	TR: Colorization
