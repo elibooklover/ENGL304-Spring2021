@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0 last updated on December 15, 2020.
+subtitle: v1.0.1 last updated on December 31, 2020.
 ---
 
 <p class="message">
@@ -22,7 +22,7 @@ subtitle: v1.0 last updated on December 15, 2020.
 We use a course website, course repository, Slack, and Canvas to facilitate class activities. The course website is for annotating Charles Dickens's <i>Our Mutual Friend</i> with [Hypothesis](https://web.hypothes.is/) and sharing course materials. Tutorials for each session are provided through the tutorial website created by the instructor. We use Slack for class announcements, discussions, questions, and group work. Canvas is mainly for turning in assignments and distributing grades.
 
 ## Textbook
-* <i>Our Mutual Friend</i> by Charles Dickens (provided on the course website)
+* [<i>Our Mutual Friend</i>](https://elibooklover.github.io/ENGL304-Spring2021/reading/) by Charles Dickens (provided on the course website)
 
 ## Required Software
 Students are required to use their own laptops/desktops in the classroom for course activities.
@@ -50,8 +50,8 @@ At the end of the semester, you will be able to do the following:
 ## Grading and Course Policies
 Your grade is based on the average of the assignments listed below. 
 * Participation (In-Class Discussions and Attendance): 10%
-* Annotations: 10%
-* Homework Assignments: 20%
+* Annotations: 15%
+* Homework Assignments: 15%
 * 2 Blog Posts: 10%
 * Project Presentation: 10%
 * Final Project (40% total)	
