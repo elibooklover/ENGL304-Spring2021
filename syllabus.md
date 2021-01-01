@@ -107,6 +107,8 @@ The course schedule is subject to changes. <br>
     * 
   * Thu (1/28)
     * Guest Speaker: Dr. Amy Earhart (Texas A&M University)
+    * [Colored Conventions Project](https://coloredconventions.org/)
+    * [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/)
 <br>
 <br>
 
