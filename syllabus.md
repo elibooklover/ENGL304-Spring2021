@@ -66,25 +66,43 @@ Expectations of the English Department and the University Rules are that you com
 
 <b>Annotations and Homework Assignments will not be accepted late.</b> For all other assignments, you will lose 10% off the final assignment grade for <u><b>every day</b></u> past the due date. The Late Paper Policy for this course follows the guidelines described in the University Student Rules, “Section 7. Attendance” (http://student-rules.tamu.edu/rule07). 
 
-## Make-up Policy (Excused Absences)
-You must have a University-approved excuse in order to make up a missed course activity or turn in portions of the Writing Projects without a penalty. You are responsible for providing evidence to substantiate “authorized absences.” If you must miss time in the course and its activities, it is your responsibility to inform your instructor.
+## Makeup Work Policy
+Students will be excused from attending class on the day of a graded activity or when attendance contributes to a student’s grade, for the reasons stated in Student Rule 7, or other reason deemed appropriate by the instructor. <br>
 
-## Students Needing Support Service
-The Americans with Disabilities Act (ADA) is a federal anti-discrimination statute that provides comprehensive civil rights protection for persons with disabilities. Among other things, this legislation requires that all students with disabilities be guaranteed a learning environment that provides for reasonable accommodation of their disabilities. If you believe you have a disability requiring an accommodation, please contact Disability Services, currently located in the Disability Services building at the Student Services at White Creek complex on West Campus or call 979-845-1637. For additional information, visit [http://disability.tamu.edu](http://disability.tamu.edu).
+Please refer to [Student Rule 7](https://student-rules.tamu.edu/rule07/) in its entirety for information about makeup work, including definitions, and related documentation and timelines. <br>
 
-## Academic Integrity
+Absences related to Title IX of the Education Amendments of 1972 may necessitate a period of more than 30 days for make-up work, and the timeframe for make-up work should be agreed upon by the student and instructor” ([Student Rule 7, Section 7.4.1](https://student-rules.tamu.edu/rule07/)). <br>
+
+“The instructor is under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence” ([Student Rule 7, Section 7.4.2](https://student-rules.tamu.edu/rule07/)). <br>
+
+Students who request an excused absence are expected to uphold the Aggie Honor Code and Student Conduct Code. (See [Student Rule 24](https://student-rules.tamu.edu/rule24/).) 
+
+## Academic Integrity Statement and Policy
 “An Aggie does not lie, cheat or steal, or tolerate those who do.” <br>
 
-Students are expected to be aware of the Aggie Honor Code, the specific rules on plagiarism, and the Honor Council Rules and Procedures pertaining to classroom behavior as explained at [http://aggiehonor.tamu.edu](http://aggiehonor.tamu.edu).
+“Texas A&M University students are responsible for authenticating all work submitted to an instructor. If asked, students must be able to produce proof that the item submitted is indeed the work of that student. Students must keep appropriate records at all times. The inability to authenticate one’s work, should the instructor request it, may be sufficient grounds to initiate an academic misconduct case” ([Section 20.1.2.3, Student Rule 20](https://aggiehonor.tamu.edu/Rules-and-Procedures/Rules/Honor-System-Rules)).<br>
+
+You can learn more about the Aggie Honor System Office Rules and Procedures, academic integrity, and your rights and responsibilities at [aggiehonor.tamu.edu](https://aggiehonor.tamu.edu/).
+
+## Americans with Disabilities Act (ADA) Policy
+Texas A&M University is committed to providing equitable access to learning opportunities for all students. If you experience barriers to your education due to a disability or think you may have a disability, please contact Disability Resources in the Student Services Building or at (979) 845-1637 or visit [disability.tamu.edu](https://disability.tamu.edu/). Disabilities may include, but are not limited to attentional, learning, mental health, sensory, physical, or chronic health conditions. All students are encouraged to discuss their disability related needs with Disability Resources and their instructors as soon as possible.
 
 ## Title IX and Statement on Limits to Confidentiality 
-Texas A&M University and the College of Liberal Arts are committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws provide guidance for achieving such an environment. Although class materials are generally considered confidential pursuant to student record policies and laws, University employees — including instructors — cannot maintain confidentiality when it conflicts with their responsibility to report certain issues that jeopardize the health and safety of our community. As the instructor, I must report (per Texas A&M System Regulation 08.01.01) the following information to other University offices if you share it with me, even if you do not want the disclosed information to be shared: <br>
+Texas A&M University is committed to fostering a learning environment that is safe and productive for all. University policies and federal and state laws prohibit gender-based discrimination and sexual harassment, including sexual assault, sexual exploitation, domestic violence, dating violence, and stalking.<br>
 
-* Allegations of sexual assault, sexual discrimination, or sexual harassment when they involve TAMU students, faculty, or staff, or third parties visiting campus.
+With the exception of some medical and mental health providers, all university employees (including full and part-time faculty, staff, paid graduate assistants, student workers, etc.) are Mandatory Reporters and must report to the Title IX Office if the employee experiences, observes, or becomes aware of an incident that meets the following conditions (see [University Rule 08.01.01.M1](https://rules-saps.tamu.edu/PDFs/08.01.01.M1.pdf)):<br>
 
-These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared. In many cases, it will be your decision whether or not you wish to speak with that individual. If you would like to talk about these events in a more confidential setting, you are encouraged to make an appointment with the [Student Counseling Service](https://scs.tamu.edu/).
+*	The incident is reasonably believed to be discrimination or harassment. 
+*	The incident is alleged to have been committed by or against a person who, at the time of the incident, was (1) a student enrolled at the University or (2) an employee of the University. 
 
-Students and faculty can report non-emergency behavior that causes them to be concerned at [http://tellsomebody.tamu.edu](http://tellsomebody.tamu.edu).
+Mandatory Reporters must file a report regardless of how the information comes to their attention – including but not limited to face-to-face conversations, a written class assignment or paper, class discussion, email, text, or social media post. Although Mandatory Reporters must file a report, in most instances, a person who is subjected to the alleged conduct will be able to control how the report is handled, including whether or not to pursue a formal investigation. The University’s goal is to make sure you are aware of the range of options available to you and to ensure access to the resources you need.<br>
+
+Students wishing to discuss concerns in a confidential setting are encouraged to make an appointment with [Counseling and Psychological Services](https://caps.tamu.edu/) (CAPS).<br>
+
+Students can learn more about filing a report, accessing supportive resources, and navigating the Title IX investigation and resolution process on the University’s [Title IX webpage](https://titleix.tamu.edu/).
+
+## Statement on Mental Health and Wellness
+Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in healthy self-care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at [suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/). 
 
 # ENGL 304 Course Schedule
 The course schedule is subject to changes. <br>
