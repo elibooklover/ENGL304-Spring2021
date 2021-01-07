@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0.1 last updated on December 31, 2020.
+subtitle: v1.0.2 last updated on January 6, 2020.
 ---
 
 <p class="message">
@@ -103,6 +103,23 @@ Students can learn more about filing a report, accessing supportive resources, a
 
 ## Statement on Mental Health and Wellness
 Texas A&M University recognizes that mental health and wellness are critical factors that influence a student’s academic success and overall wellbeing. Students are encouraged to engage in healthy self-care by utilizing the resources and services available from Counseling & Psychological Services (CAPS). Students who need someone to talk to can call the TAMU Helpline (979-845-2700) from 4:00 p.m. to 8:00 a.m. weekdays and 24 hours on weekends. 24-hour emergency help is also available through the National Suicide Prevention Hotline (800-273-8255) or at [suicidepreventionlifeline.org](https://suicidepreventionlifeline.org/). 
+
+## COVID-19 Temporary Addendum 
+### Campus Safety Measures
+To promote public safety and protect students, faculty, and staff during the coronavirus pandemic, Texas A&M University has adopted policies and practices for the Spring 2021 academic term to limit virus transmission. Students must observe the following practices while participating in face-to-face courses and course-related activities (office hours, help sessions, transitioning to and between classes, study spaces, academic services, etc.):<br>
+
+*	Self-monitoring—Students should follow CDC recommendations for self-monitoring. Students who have a fever or exhibit symptoms of COVID-19 should participate in class remotely if that option is available, and should not participate in face-to-face instruction.
+*	Face Coverings—[Face coverings](https://rules-saps.tamu.edu/PDFs/34.99.99.M0.03.pdf) (cloth face covering, surgical mask, etc.) must be properly worn in all non-private spaces including classrooms, teaching laboratories, common spaces such as lobbies and hallways, public study spaces, libraries, academic resource and support offices, and outdoor spaces where 6 feet of physical distancing is difficult to reliably maintain. Description of face coverings and additional guidance are provided in the [Face Covering policy](https://rules-saps.tamu.edu/PDFs/34.99.99.M0.03.pdf) and [Frequently Asked Questions (FAQ)](https://provost.tamu.edu/Menu/News/TAMU-Face-Covering-FAQs) available on the [Provost website](https://provost.tamu.edu/Menu/News/TAMU-Face-Covering-FAQs).
+*	Physical Distancing—Physical distancing must be maintained between students, instructors, and others in course and course-related activities.
+*	Classroom Ingress/Egress—Students must follow marked pathways for entering and exiting classrooms and other teaching spaces. Leave classrooms promptly after course activities have concluded. Do not congregate in hallways and maintain 6-foot physical distancing when waiting to enter classrooms and other instructional spaces.
+*	To attend a face-to-face class, students must properly wear an approved face covering If a student refuses to wear a face covering, the instructor should ask the student to leave and join the class remotely. If the student does not leave the class, the faculty member should report that student to the [Student Conduct office](https://studentlife.tamu.edu/sco/face-covering-violations/) for sanctions. Additionally, the faculty member may choose to teach that day’s class remotely for all students, or dismiss the class in the case of a traditional face to face lecture.
+### Personal Illness and Quarantine
+Students required to quarantine must participate in courses and course-related activities remotely, if that option is available, and must not attend face-to-face course activities. Students should notify their instructors of the quarantine requirement. Students under quarantine are expected to participate in courses and complete graded work unless they have symptoms that are too severe to participate in course activities.<br>
+
+Students experiencing personal injury or Illness that is too severe for the student to attend class qualify for an excused absence (See [Student Rule 7, Section 7.2.2](https://student-rules.tamu.edu/rule07/).) To receive an excused absence, students must comply with the documentation and notification guidelines outlined in Student Rule 7.
+
+
+
 
 # ENGL 304 Course Schedule
 The course schedule is subject to changes. <br>
