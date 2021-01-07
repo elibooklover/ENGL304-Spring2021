@@ -182,7 +182,7 @@ The course schedule is subject to changes. <br>
     *	Digital Archives: HathiTrust / Project Gutenberg
   * Thu (2/18)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-7)
-    *	TR: Introduction of Digit Recognizer
+    *	TR: Introduction to Digit Recognizer
     *	Lab
 <br>
 <br>
