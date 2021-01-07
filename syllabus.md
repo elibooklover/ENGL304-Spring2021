@@ -13,9 +13,8 @@ subtitle: v1.0.2 last updated on January 6, 2020.
 - Class Meeting Times: TTh 9:45-11:00am 
 - Instructor: Hoyeol Kim 
 - Office Location: LAAH 549
-- Office Hours: TW 11:00am-12:30pm via Zoom (by appointment)
+- Office Hours: TW 11:00am-12:30pm via Zoom (by appointment at [https://calendly.com/hoyeolkim/office-hours](https://calendly.com/hoyeolkim/office-hours))
 - Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
-- Course Discussions: [https://github.com/elibooklover/ENGL304-Spring2021/discussions](https://github.com/elibooklover/ENGL304-Spring2021/discussions)
 - Tutorials: [https://elibooklover.github.io/Tutorials/](https://elibooklover.github.io/Tutorials/)
 
 ## Course Tools
