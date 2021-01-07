@@ -113,13 +113,11 @@ To promote public safety and protect students, faculty, and staff during the cor
 *	Physical Distancing—Physical distancing must be maintained between students, instructors, and others in course and course-related activities.
 *	Classroom Ingress/Egress—Students must follow marked pathways for entering and exiting classrooms and other teaching spaces. Leave classrooms promptly after course activities have concluded. Do not congregate in hallways and maintain 6-foot physical distancing when waiting to enter classrooms and other instructional spaces.
 *	To attend a face-to-face class, students must properly wear an approved face covering If a student refuses to wear a face covering, the instructor should ask the student to leave and join the class remotely. If the student does not leave the class, the faculty member should report that student to the [Student Conduct office](https://studentlife.tamu.edu/sco/face-covering-violations/) for sanctions. Additionally, the faculty member may choose to teach that day’s class remotely for all students, or dismiss the class in the case of a traditional face to face lecture.
+
 ### Personal Illness and Quarantine
 Students required to quarantine must participate in courses and course-related activities remotely, if that option is available, and must not attend face-to-face course activities. Students should notify their instructors of the quarantine requirement. Students under quarantine are expected to participate in courses and complete graded work unless they have symptoms that are too severe to participate in course activities.<br>
 
 Students experiencing personal injury or Illness that is too severe for the student to attend class qualify for an excused absence (See [Student Rule 7, Section 7.2.2](https://student-rules.tamu.edu/rule07/).) To receive an excused absence, students must comply with the documentation and notification guidelines outlined in Student Rule 7.
-
-
-
 
 # ENGL 304 Course Schedule
 The course schedule is subject to changes. <br>
