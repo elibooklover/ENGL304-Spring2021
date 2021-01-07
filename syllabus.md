@@ -31,7 +31,7 @@ Students are required to use their own laptops/desktops in the classroom for cou
 
 ## Required Signup for Websites
 * [Hypothesis](https://web.hypothes.is/): Students are required to have a free account on Hypothesis to annotate texts on the course website.
-* [GitHub](https://github.com): Students need to sign up for GitHub in order to participate in course discussions. Students do not have to get a Pro membership, but they can get a Pro membership for free upon request at [GitHub for Students](https://education.github.com/students). GitHub is a subsidiary of Microsoft.
+* [GitHub](https://github.com): Students need to sign up for GitHub in order to do homework assignments. Students do not have to get a Pro membership, but they can get a Pro membership for free upon request at [GitHub for Students](https://education.github.com/students). GitHub is a subsidiary of Microsoft.
 
 ## Course Description
 Topics in Digital Research. (3-0) Credit 3. This course does not require any background in computer programming. We cover many topics in the digital humanities, specifically research methods deployed in computational literary studies. <br>
@@ -152,7 +152,7 @@ The course schedule is subject to changes. <br>
     * Voyant
   * Thu (2/4)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
-    * TR: R & RStudio
+    * TR: RStudio Cloud
     * TR: R basics
     *	TR: Word frequency with R
     *	TR: Visualization with R: ggplot2
