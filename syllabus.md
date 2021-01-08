@@ -144,7 +144,7 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-* <b>Week 3: Word Frequency I</b>
+* <b>Week 3: Word Frequencies I</b>
 
   * Tue (2/2)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
@@ -152,23 +152,23 @@ The course schedule is subject to changes. <br>
     * Voyant
   * Thu (2/4)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
-    * TR: RStudio Cloud
+    * RStudio Cloud
     * TR: R basics
-    *	TR: Word frequency with R
-    *	TR: Visualization with R: ggplot2
+    *	TR: Word frequencies with R
 <br>
 <br>
 
-* <b>Week 4: Word Frequency II</b>
+* <b>Week 4: Word Frequencies II</b>
 
   * Tue (2/9)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
-    * TR: Word frequency with Python (NLTK)
+    *	TR: Word cloud with R
+    * TR: Word frequencies with Python (NLTK)
     
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
     *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
-    * TR: Word frequency with Python (NLTK)
+    * TR: Word frequencies with Python (NLTK)
 <br>
 <br>
 
