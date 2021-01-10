@@ -133,14 +133,25 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-* <b>Week 2: Digital Projects</b>
+* <b>Week 2: Digital Projects/Archives/Databases</b>
 
   * Tue (1/26)
-    * 
+    * [The Charles Dickens Page](https://www.charlesdickenspage.com/)
+    * [The Rossetti Archive](http://www.rossettiarchive.org/about/index.html)
+    * [The William Blake Archive](http://www.blakearchive.org/)
+    * [The George Eliot Archive](http://www.georgeeliotarchive.org/)
+    * [The Victorian Web](http://www.victorianweb.org/)
+    * [BRANCH: Britain, Representation, and Nineteenth-Century History](http://www.branchcollective.org/)
+    * [NINES](https://nines.org/)
   * Thu (1/28)
     * Guest Speaker: Dr. Amy Earhart (Texas A&M University)
     * [Colored Conventions Project](https://coloredconventions.org/)
     * [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/)
+    * [The Women Writers Project](https://www.wwp.northeastern.edu/)
+    * [British History Online](https://www.british-history.ac.uk/)
+    * [Multilingual DH](http://multilingualdh.org/)
+    * [The Index of Digital Humanities Conferences](https://dh-abstracts.library.cmu.edu/)
+    * [HathiTrust](https://www.hathitrust.org/)
 <br>
 <br>
 
