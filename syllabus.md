@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0.3 last updated on January 10, 2020.
+subtitle: v1.0.4 last updated on January 11, 2020.
 ---
 
 <p class="message">
@@ -53,10 +53,10 @@ Your grade is based on the average of the assignments listed below.
 * Homework Assignments: 15%
 * 2 Blog Posts: 10%
 * Project Presentation: 10%
-* Final Project (40% total)	
-  *	Proposal: 10%
+* Digital Project (40% total)	
+  *	Proposal: 5%
   *	Progress Report: 10%
-  *	Final Report: 20%
+  *	Final Report: 25%
 * Total: 100%
 Grading Scale: A (90-100); B (80-89); C (70-79); D (60-69); F (59 or less)
 
@@ -129,6 +129,7 @@ The course schedule is subject to changes. <br>
     * Introductions
   * Thu (1/21)
     * What are the digital humanities?
+    * What is digital literacy?
     *	CW: Annotating on the course website
 <br>
 <br>
