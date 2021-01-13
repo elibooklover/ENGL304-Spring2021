@@ -127,10 +127,12 @@ The course schedule is subject to changes. <br>
   * Tue (1/19)
     * Syllabus and course schedule
     * Introductions
+    *	CW: Annotating on the course website
   * Thu (1/21)
     * What are the digital humanities?
     * What is digital literacy?
-    *	CW: Annotating on the course website
+    *	Introduction to Course Tools
+    * Introduction to <i>Our Mutual Friend</i>
 <br>
 <br>
 
@@ -160,6 +162,7 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/2)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
+    * Charles Dickens
     *	TR: Introduction to GitHub
     * Voyant
   * Thu (2/4)
