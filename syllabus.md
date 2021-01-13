@@ -258,11 +258,11 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-* <b>Week 11: Word Embedding</b>
+* <b>Week 11: Word Embeddings</b>
 
   * Tue (3/30)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
-    *	What is embedding?
+    *	What are word embeddings?
     *	TR: Word2Vec
     *	TR: GloVe
   * Thu (4/1)
