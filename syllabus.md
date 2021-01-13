@@ -258,24 +258,10 @@ The course schedule is subject to changes. <br>
 <br>
 <br>
 
-* <b>Week 11: Word Embeddings</b>
+* <b>Week 11: Sentiment Analysis / Victorian Sentiments</b>
 
   * Tue (3/30)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
-    *	What are word embeddings?
-    *	TR: Word2Vec
-    *	TR: GloVe
-  * Thu (4/1)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
-    *	TR: Word similarities
-    *	TR: FastText
-    *	TR: ELMo
-<br>
-<br>
-
-* <b>Week 12: Sentiment Analysis / Victorian Sentiments</b>
-
-  * Tue (4/6)
     *	CW: What is sentiment analysis?
     *	Ekman’s theory of basic emotions
     *	Plutchik’s wheel of emotions
@@ -283,10 +269,24 @@ The course schedule is subject to changes. <br>
     *	Stoic sentiments
     *	Sentimentalism, sentimentality, and sentiment in the Victorian era.
     *	Charles Dickens’ moral sentiments
-  * Thu (4/8)
+  * Thu (4/1)
     *	TR: Curating datasets
     *	TR: Playing with tools
     *	TR: Visualizing results
+<br>
+<br>
+
+* <b>Week 12: Word Embeddings</b>
+
+  * Tue (4/6)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
+    *	What are word embeddings?
+    *	TR: Word2Vec
+    *	TR: GloVe
+  * Thu (4/8)
+    * Lab
+    *	TR: FastText
+    *	TR: ELMo
 <br>
 <br>
 
