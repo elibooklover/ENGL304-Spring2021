@@ -174,7 +174,7 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/9)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
-    *	TR: Word cloud with R
+    *	TR: Word clouds with R
     * TR: Word frequencies with Python (NLTK)
     
   * Thu (2/11)
@@ -267,7 +267,7 @@ The course schedule is subject to changes. <br>
     *	TR: GloVe
   * Thu (4/1)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
-    *	TR: Word similarity
+    *	TR: Word similarities
     *	TR: FastText
     *	TR: ELMo
 <br>
