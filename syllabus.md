@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0.5 last updated on January 13, 2020.
+subtitle: v1.0.6 last updated on January 15, 2020.
 ---
 
 <p class="message">
@@ -284,12 +284,9 @@ The course schedule is subject to changes. <br>
   * Tue (4/6)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
     *	What are word embeddings?
-    *	TR: Word2Vec
-    *	TR: GloVe
+    *	Word2Vec, GloVe, FastText, ELMo
   * Thu (4/8)
     * Lab
-    *	TR: FastText
-    *	TR: ELMo
 <br>
 <br>
 
