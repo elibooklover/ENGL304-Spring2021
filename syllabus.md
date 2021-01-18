@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.0.6 last updated on January 15, 2020.
+subtitle: v1.1.0 last updated on January 18, 2020.
 ---
 
 <p class="message">
@@ -10,8 +10,8 @@ subtitle: v1.0.6 last updated on January 15, 2020.
 
 ## Instructor Information
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:elibooklover@tamu.edu)](mailto:elibooklover@tamu.edu)
-- Class Meeting Times: TTh 9:45-11:00am 
 - Instructor: Hoyeol Kim 
+- Class Meeting Times: TTh 9:45-11:00am 
 - Office Location: LAAH 549
 - Office Hours: TW 11:00am-12:30pm via Zoom (by appointment at [https://calendly.com/hoyeolkim/office-hours](https://calendly.com/hoyeolkim/office-hours))
 - Course Website and Course Reading: [https://elibooklover.github.io/ENGL304-Spring2021/](https://elibooklover.github.io/ENGL304-Spring2021/)
@@ -139,6 +139,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 2: Digital Projects/Archives/Databases</b>
 
   * Tue (1/26)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
     * [The Charles Dickens Page](https://www.charlesdickenspage.com/)
     * [The Rossetti Archive](http://www.rossettiarchive.org/about/index.html)
     * [The William Blake Archive](http://www.blakearchive.org/)
@@ -161,12 +162,11 @@ The course schedule is subject to changes. <br>
 * <b>Week 3: Word Frequencies I</b>
 
   * Tue (2/2)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-8)
     * Charles Dickens
     *	TR: Introduction to GitHub
     * Voyant
   * Thu (2/4)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-7)
     * RStudio Cloud
     * TR: R basics
     *	TR: Word frequencies with R
@@ -176,13 +176,13 @@ The course schedule is subject to changes. <br>
 * <b>Week 4: Word Frequencies II</b>
 
   * Tue (2/9)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.8-12)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.9-13)
     *	TR: Word clouds with R
     * TR: Word frequencies with Python (NLTK)
     
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
-    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.13-15)
+    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.14-16)
     * TR: Word frequencies with Python (NLTK)
 <br>
 <br>
@@ -190,7 +190,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 5: OCR & Digitization</b>
 
   * Tue (2/16)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.16-17; bk.2 ch.1-4)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.17; bk.2 ch.1-4)
     * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
     *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
     *	CW: OCR apps / programs
@@ -234,6 +234,7 @@ The course schedule is subject to changes. <br>
     *	Playing with tools
     * TR: Topic modeling with LDA
   * Thu (3/11)
+    * Guest Speaker: TBD
     *	TR: Topic modeling with MALLET & Visualization
 <br>
 <br>
