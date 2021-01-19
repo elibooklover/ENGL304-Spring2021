@@ -25,7 +25,7 @@ We use a course website, course repository, Slack, and Canvas to facilitate clas
 
 ## Required Software
 Students are required to use their own laptops/desktops in the classroom for course activities.
-* [RStudio Cloud](https://rstudio.cloud/) : a cloud-based R environment which is free to use. Students are not required to purchace a RStudio Cloud membership for this course. If you want to run R in your local environment, you can choose R & RStudio. [R](https://cran.r-project.org/) needs to be installed first in order to use RStudio. [RStudio](https://rstudio.com/products/rstudio/download/) is a user-friendly programming tool which is free to use.
+* [RStudio Cloud](https://rstudio.cloud/) : a cloud-based R environment which is free to use. Students are not required to purchace a RStudio Cloud membership for this course. If students want to run R in their local environment, they can choose R & RStudio. [R](https://cran.r-project.org/) needs to be installed first in order to use RStudio. [RStudio](https://rstudio.com/products/rstudio/download/) is a user-friendly programming tool which is free to use.
 *	[Google Colab](https://colab.research.google.com/notebooks/intro.ipynb): a cloud-based notebook environment which is suitable for machine learning and data analysis. A Google account is required to use Colab. You are not required to purchase a Colab membership for this course since we will only be using the free features. 
 * [Gephi](https://gephi.org/users/download/): an open-source network analysis and visualization software package, which is free to download.
 
