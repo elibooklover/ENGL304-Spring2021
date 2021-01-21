@@ -165,7 +165,7 @@ The course schedule is subject to changes. <br>
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-8)
     * Charles Dickens
     *	TR: Introduction to GitHub
-    * Voyant
+    * [Voyant](https://voyant-tools.org/)
   * Thu (2/4)
     * RStudio Cloud
     * TR: R basics
