@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.1.0 last updated on January 18, 2020.
+subtitle: v1.1.1 last updated on January 25, 2020.
 ---
 
 <p class="message">
@@ -139,7 +139,6 @@ The course schedule is subject to changes. <br>
 * <b>Week 2: Digital Projects/Archives/Databases</b>
 
   * Tue (1/26)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
     * [The Charles Dickens Page](https://www.charlesdickenspage.com/)
     * [The Rossetti Archive](http://www.rossettiarchive.org/about/index.html)
     * [The William Blake Archive](http://www.blakearchive.org/)
@@ -147,15 +146,16 @@ The course schedule is subject to changes. <br>
     * [The Victorian Web](http://www.victorianweb.org/)
     * [BRANCH: Britain, Representation, and Nineteenth-Century History](http://www.branchcollective.org/)
     * [NINES](https://nines.org/)
+    * [HathiTrust](https://www.hathitrust.org/)
   * Thu (1/28)
     * Guest Speaker: Dr. Amy Earhart (Texas A&M University)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
     * [Colored Conventions Project](https://coloredconventions.org/)
     * [Trans-Atlantic Slave Trade Database](https://www.slavevoyages.org/)
     * [The Women Writers Project](https://www.wwp.northeastern.edu/)
     * [British History Online](https://www.british-history.ac.uk/)
     * [Multilingual DH](http://multilingualdh.org/)
     * [The Index of Digital Humanities Conferences](https://dh-abstracts.library.cmu.edu/)
-    * [HathiTrust](https://www.hathitrust.org/)
 <br>
 <br>
 
