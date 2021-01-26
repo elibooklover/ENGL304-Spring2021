@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Copyright
+title: Copyright and Digital Archives
 truncated_preview: false
 excerpt_separator: <!--more-->
 ---
