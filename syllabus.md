@@ -139,6 +139,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 2: Digital Projects/Archives/Databases</b>
 
   * Tue (1/26)
+    * Copyright: MIT License and ["Creative Commons"](https://creativecommons.org/)
     * [The Charles Dickens Page](https://www.charlesdickenspage.com/)
     * [The Rossetti Archive](http://www.rossettiarchive.org/about/index.html)
     * [The William Blake Archive](http://www.blakearchive.org/)
