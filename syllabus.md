@@ -147,7 +147,6 @@ The course schedule is subject to changes. <br>
     * [The Victorian Web](http://www.victorianweb.org/)
     * [BRANCH: Britain, Representation, and Nineteenth-Century History](http://www.branchcollective.org/)
     * [NINES](https://nines.org/)
-    * [HathiTrust](https://www.hathitrust.org/)
   * Thu (1/28)
     * Guest Speaker: Dr. Amy Earhart (Texas A&M University)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.1-4)
@@ -157,6 +156,7 @@ The course schedule is subject to changes. <br>
     * [British History Online](https://www.british-history.ac.uk/)
     * [Multilingual DH](http://multilingualdh.org/)
     * [The Index of Digital Humanities Conferences](https://dh-abstracts.library.cmu.edu/)
+    * [HathiTrust](https://www.hathitrust.org/)
 <br>
 <br>
 
