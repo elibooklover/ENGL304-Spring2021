@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.1.1 last updated on January 25, 2020.
+subtitle: v1.1.2 last updated on January 27, 2020.
 ---
 
 <p class="message">
@@ -165,10 +165,10 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/2)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-8)
-    *	TR: Introduction to GitHub
+    *	R & RStudio 
+    * RStudio Cloud
     * [Voyant](https://voyant-tools.org/)
   * Thu (2/4)
-    * RStudio Cloud
     * TR: R basics
     *	TR: Word frequencies with R
 <br>
