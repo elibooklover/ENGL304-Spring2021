@@ -131,6 +131,7 @@ The course schedule is subject to changes. <br>
   * Thu (1/21)
     * What are the digital humanities?
     * What is digital literacy?
+    * Charles Dickens
     *	Introduction to Course Tools
     * Introduction to <i>Our Mutual Friend</i>
 <br>
@@ -164,7 +165,6 @@ The course schedule is subject to changes. <br>
 
   * Tue (2/2)
     * CW: <i>Our Mutual Friend</i> (bk.1 ch.5-8)
-    * Charles Dickens
     *	TR: Introduction to GitHub
     * [Voyant](https://voyant-tools.org/)
   * Thu (2/4)
