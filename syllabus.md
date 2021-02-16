@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.1.2 last updated on January 27, 2020.
+subtitle: v1.1.3 last updated on February 15, 2020.
 ---
 
 <p class="message">
@@ -191,13 +191,12 @@ The course schedule is subject to changes. <br>
 * <b>Week 5: OCR & Digitization</b>
 
   * Tue (2/16)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.17; bk.2 ch.1-4)
     * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
     *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
     *	CW: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
   * Thu (2/18)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-7)
+    * CW: <i>Our Mutual Friend</i> (bk.1 ch.17; bk.2 ch.1-4)
     *	TR: Introduction to Digit Recognizer
     *	Lab
 <br>
@@ -206,10 +205,11 @@ The course schedule is subject to changes. <br>
 * <b>Week 6: Network Analysis</b>
 
   * Tue (2/23)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.8-12)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-9)
     *	CW: Network analysis projects
     *	TR: Introduction to Stylometry
   * Thu (2/25)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.10-12)
     *	TR: Stylometry
 <br>
 <br>
