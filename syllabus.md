@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.2.0 last updated on February 15, 2020.
+subtitle: v1.3.0 last updated on February 21, 2020.
 ---
 
 <p class="message">
@@ -183,90 +183,72 @@ The course schedule is subject to changes. <br>
     
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
-    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.14-16)
+    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.14-17; bk.2 ch.1-4)
     * TR: Word frequencies with Python (NLTK)
 <br>
 <br>
 
-* <b>Week 5: OCR & Digitization</b>
+* <b>Week 5: No Class</b>
 
   * Tue (2/16)
-    * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
-    *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
-    *	CW: OCR apps / programs
-    *	Digital Archives: HathiTrust / Project Gutenberg
+    * Class Canceled for Weather Emergency
   * Thu (2/18)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.17; bk.2 ch.1-4)
-    *	TR: Introduction to Digit Recognizer
-    *	Lab
+    * Class Canceled for Weather Emergency
 <br>
 <br>
 
 * <b>Week 6: Network Analysis</b>
 
   * Tue (2/23)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-9)
     *	CW: Network analysis projects
     *	TR: Introduction to Stylometry
   * Thu (2/25)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.10-12)
     *	TR: Stylometry
 <br>
 <br>
 
-* <b>Week 7: Humanities Data</b>
+* <b>Week 7: OCR & Digitization</b>
 
   * Tue (3/2) - <b>Texas Independance Day (NO CLASS)</b>
   * Thu (3/4)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.3-10)
-    *	Humanities dataset projects
-    *	Kaggle
-    *	Google Dataset Search
-    * TR: NLTK
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-9)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.10-12)
+    * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
+    *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
+    *	CW: OCR apps / programs
+    *	Digital Archives: HathiTrust / Project Gutenberg
+
 <br>
 <br>
 
-* <b>Week 8: Topic Modeling</b>
-
+* <b>Week 8: Visualization with Python</b>
+  * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
   * Tue (3/9)
-    * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-2)
+    *	TR: NumPy / pandas
+  * Thu (3/11)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.4-6)
+    *	TR: Matplotlib / Seaborn
+<br>
+<br>
+
+* <b>Week 9: Topic Modeling</b>
+
+  * Tue (3/16)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.7-12)
     *	Introduction to topic modeling
     * ["The Digital Humanities Contribution to Topic Modeling"](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/) by Elija Meeks and Scott B. Weingart
     *	Playing with tools
     * TR: Topic modeling with LDA
-  * Thu (3/11)
+  * Thu (3/18)
     * Guest Speaker: TBD
     *	TR: Topic modeling with MALLET & Visualization
 <br>
 <br>
 
-* <b>Week 9: Visualization with Python</b>
-
-  * Tue (3/16)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.11-15)
-    *	TR: NumPy / pandas
-  * Thu (3/18)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.16-17)
-    *	TR: Matplotlib / Seaborn
-<br>
-<br>
-
-* <b>Week 10: Web Scraping & Visualization</b>
+* <b>Week 10: Sentiment Analysis / Victorian Sentiments</b>
 
   * Tue (3/23)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.1-5)
-    *	TR: Web scraping
-    *	TR: Scraping Tweets
-  * Thu (3/25)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-8)
-    *	TR: Word frequency and word cloud
-<br>
-<br>
-
-* <b>Week 11: Sentiment Analysis / Victorian Sentiments</b>
-
-  * Tue (3/30)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.9-13)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.13-17; bk.4 ch.1-2)
     *	CW: What is sentiment analysis?
     *	Ekman’s theory of basic emotions
     *	Plutchik’s wheel of emotions
@@ -274,21 +256,37 @@ The course schedule is subject to changes. <br>
     *	Stoic sentiments
     *	Sentimentalism, sentimentality, and sentiment in the Victorian era.
     *	Charles Dickens’ moral sentiments
-  * Thu (4/1)
+  * Thu (3/25)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.3-5)
     *	TR: Curating datasets
     *	TR: Playing with tools
     *	TR: Visualizing results
 <br>
 <br>
 
-* <b>Week 12: Word Embeddings</b>
+* <b>Week 11: Web Scraping & Visualization</b>
+
+  * Tue (3/30)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-10)
+    *	TR: Web scraping
+    *	TR: Scraping Tweets
+  * Thu (4/1)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.11-13)
+    *	TR: Word frequencies and word cloud
+<br>
+<br>
+
+* <b>Week 12: Humanities Data / Word Embeddings</b>
 
   * Tue (4/6)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
-    *	What are word embeddings?
-    *	Word2Vec, GloVe, FastText, ELMo
+    *	Humanities dataset projects
+    *	Kaggle
+    *	Google Dataset Search
+    * TR: NLTK
   * Thu (4/8)
-    * Lab
+    * What are word embeddings?
+    *	Word2Vec, GloVe, FastText, ELMo
 <br>
 <br>
 
