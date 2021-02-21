@@ -222,8 +222,8 @@ The course schedule is subject to changes. <br>
 <br>
 
 * <b>Week 8: Visualization with Python</b>
-  * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
   * Tue (3/9)
+    * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
     *	TR: NumPy / pandas
   * Thu (3/11)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.4-6)
