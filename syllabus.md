@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.3.0 last updated on February 21, 2020.
+subtitle: v1.3.1 last updated on February 22, 2020.
 ---
 
 <p class="message">
@@ -200,10 +200,11 @@ The course schedule is subject to changes. <br>
 * <b>Week 6: Network Analysis</b>
 
   * Tue (2/23)
-    *	CW: Network analysis projects
-    *	TR: Introduction to Stylometry
+    *	Network Analysis
+    *	Introduction to Stylometry
+    * Installing software
   * Thu (2/25)
-    *	TR: Stylometry
+    *	CW: Stylometry
 <br>
 <br>
 
