@@ -217,7 +217,6 @@ The course schedule is subject to changes. <br>
     *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
     *	CW: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
-
 <br>
 <br>
 
