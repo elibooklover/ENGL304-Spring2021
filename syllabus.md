@@ -214,9 +214,8 @@ The course schedule is subject to changes. <br>
   * Thu (3/4)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-9)
     *	CW: <i>Our Mutual Friend</i> (bk.2 ch.10-12)
-    * CW: ["Introduction to OCR"](https://guides.library.illinois.edu/OCR/intro) by Illinois Library
-    *	CW: ["A gentle introduction to OCR"](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa) by Gidi Shperber
-    *	CW: OCR apps / programs
+    * Introduction to OCR
+    *	Lab: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
 <br>
 <br>
