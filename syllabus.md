@@ -223,10 +223,13 @@ The course schedule is subject to changes. <br>
 * <b>Week 8: Visualization with Python</b>
   * Tue (3/9)
     * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
-    *	TR: NumPy / pandas
+    * Google Colab
+    * Word Frequencies with NLTK
+
   * Thu (3/11)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.4-6)
     *	TR: Matplotlib / Seaborn
+    *	TR: NumPy / pandas
 <br>
 <br>
 
