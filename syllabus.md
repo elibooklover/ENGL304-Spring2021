@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.3.1 last updated on February 22, 2021.
+subtitle: v1.3.2 last updated on March 7, 2021.
 ---
 
 <p class="message">
@@ -224,12 +224,12 @@ The course schedule is subject to changes. <br>
   * Tue (3/9)
     * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
     * Google Colab
-    * Word Frequencies with NLTK
+    *	TR: NumPy / pandas
+    *	TR: Matplotlib / Seaborn
 
   * Thu (3/11)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.4-6)
-    *	TR: Matplotlib / Seaborn
-    *	TR: NumPy / pandas
+    * TR: Word Frequencies with NLTK
 <br>
 <br>
 
@@ -271,7 +271,6 @@ The course schedule is subject to changes. <br>
   * Tue (3/30)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-10)
     *	TR: Web scraping
-    *	TR: Scraping Tweets
   * Thu (4/1)
     *	CW: <i>Our Mutual Friend</i> (bk.4 ch.11-13)
     *	TR: Word frequencies and word cloud
