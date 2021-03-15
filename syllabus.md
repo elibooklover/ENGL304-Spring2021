@@ -238,11 +238,9 @@ The course schedule is subject to changes. <br>
   * Tue (3/16)
     *	CW: <i>Our Mutual Friend</i> (bk.3 ch.7-12)
     *	Introduction to topic modeling
-    * ["The Digital Humanities Contribution to Topic Modeling"](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/) by Elija Meeks and Scott B. Weingart
     *	Playing with tools
     * TR: Topic modeling with LDA
   * Thu (3/18)
-    * Guest Speaker: TBD
     *	TR: Topic modeling with MALLET & Visualization
 <br>
 <br>
