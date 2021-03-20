@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-subtitle: v1.4.0 last updated on March 15, 2021.
+subtitle: v1.5.0 last updated on March 20, 2021.
 ---
 
 <p class="message">
@@ -177,13 +177,13 @@ The course schedule is subject to changes. <br>
 * <b>Week 4: Word Frequencies II</b>
 
   * Tue (2/9)
-    * CW: <i>Our Mutual Friend</i> (bk.1 ch.9-13)
+    * CW: <i>Our Mutual Friend</i> (bk.1 chs.9-13)
     *	TR: Word clouds with R
     * TR: Word frequencies with Python (NLTK)
     
   * Thu (2/11)
     * Guest Speaker: Quinn Dombrowski (Stanford University)
-    *	CW: <i>Our Mutual Friend</i> (bk.1 ch.14-17; bk.2 ch.1-4)
+    *	CW: <i>Our Mutual Friend</i> (bk.1 chs.14-17; bk.2 chs.1-4)
     * TR: Word frequencies with Python (NLTK)
 <br>
 <br>
@@ -212,8 +212,8 @@ The course schedule is subject to changes. <br>
 
   * Tue (3/2) - <b>Texas Independance Day (NO CLASS)</b>
   * Thu (3/4)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.5-9)
-    *	CW: <i>Our Mutual Friend</i> (bk.2 ch.10-12)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 chs.5-9)
+    *	CW: <i>Our Mutual Friend</i> (bk.2 chs.10-12)
     * Introduction to OCR
     *	Lab: OCR apps / programs
     *	Digital Archives: HathiTrust / Project Gutenberg
@@ -222,13 +222,13 @@ The course schedule is subject to changes. <br>
 
 * <b>Week 8: Visualization with Python</b>
   * Tue (3/9)
-    * CW: <i>Our Mutual Friend</i> (bk.2 ch.13-16; bk.3 ch.1-3)
+    * CW: <i>Our Mutual Friend</i> (bk.2 chs.13-16; bk.3 chs.1-3)
     * Google Colab
     *	TR: NumPy / pandas
     *	TR: Matplotlib / Seaborn
 
   * Thu (3/11)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.4-6)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 chs.4-6)
     * TR: Word Frequencies with NLTK
 <br>
 <br>
@@ -236,19 +236,22 @@ The course schedule is subject to changes. <br>
 * <b>Week 9: Topic Modeling</b>
 
   * Tue (3/16)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.7-12)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 chs.7-12)
     *	Introduction to topic modeling
     *	Playing with tools
     * TR: Topic modeling with LDA
   * Thu (3/18)
-    *	TR: Topic modeling with MALLET & Visualization
+    * Redefined day
 <br>
 <br>
 
 * <b>Week 10: Sentiment Analysis / Victorian Sentiments</b>
 
   * Tue (3/23)
-    *	CW: <i>Our Mutual Friend</i> (bk.3 ch.13-17; bk.4 ch.1-2)
+    *	CW: <i>Our Mutual Friend</i> (bk.3 chs.13-17; bk.4 chs.1-2)
+    *	TR: Topic modeling with MALLET & Visualization
+  * Thu (3/25)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 chs.3-5)
     *	CW: What is sentiment analysis?
     *	Ekman’s theory of basic emotions
     *	Plutchik’s wheel of emotions
@@ -256,21 +259,20 @@ The course schedule is subject to changes. <br>
     *	Stoic sentiments
     *	Sentimentalism, sentimentality, and sentiment in the Victorian era.
     *	Charles Dickens’ moral sentiments
-  * Thu (3/25)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.3-5)
-    *	TR: Curating datasets
-    *	TR: Playing with tools
-    *	TR: Visualizing results
+
 <br>
 <br>
 
 * <b>Week 11: Web Scraping & Visualization</b>
 
   * Tue (3/30)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.6-10)
-    *	TR: Web scraping
+    *	CW: <i>Our Mutual Friend</i> (bk.4 chs.6-10)
+    *	TR: Curating datasets
+    *	TR: Playing with tools
+    *	TR: Visualizing results
   * Thu (4/1)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.11-13)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 chs.11-13)
+    *	TR: Web scraping
     *	TR: Word frequencies and word cloud
 <br>
 <br>
@@ -278,7 +280,7 @@ The course schedule is subject to changes. <br>
 * <b>Week 12: Humanities Data / Word Embeddings</b>
 
   * Tue (4/6)
-    *	CW: <i>Our Mutual Friend</i> (bk.4 ch.14-17)
+    *	CW: <i>Our Mutual Friend</i> (bk.4 chs.14-17)
     *	Humanities dataset projects
     *	Kaggle
     *	Google Dataset Search
