@@ -287,7 +287,7 @@ The course schedule is subject to changes. <br>
     * TR: NLTK
   * Thu (4/8)
     * What are word embeddings?
-    *	Word2Vec, GloVe, FastText, ELMo
+    *	TF-IDF, Word2Vec, LDA, ELMo, GPT, and BERT
 <br>
 <br>
 
